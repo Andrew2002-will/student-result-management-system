@@ -1,0 +1,12 @@
+STUDENT RESULT REPORT
+======================
+
+Name: Andrew Deen Will
+Student ID: 81677
+Math: 70.0
+English: 90.0
+Science: 80.0
+Total: 240.0
+Average: 80.0
+Grade: A
+----------------------
